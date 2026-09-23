@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "LaTeX Package Release: lpalign v1.7"
+date:   2026-07-19 14:15:42 +0200
+categories: software
+---
+
+I wrote a package and it is finally good enough to share! 
+[<i class="fa-brands fa-github"></i> git link](https://github.com/jfravel/lpalign)
+
+My goal was to simplify the typesetting of mathematical programs by emulating amsmath's alignment environments with a load of formatting features and without any the extra spacing characters. See the example below!
+
+![Image](/assets/lpalign.png)
+
+I've embedded the documentation below. I'd love to hear any feedback you might have!
+It has not yet been added to CTAN, so it will need to be added to your project directory manually. (Don't worry; it is quite simple!)
+
+<object data="/assets/lpalign-Documentaion-v1.7.pdf" width="600" height="800" type='application/pdf'></object>
