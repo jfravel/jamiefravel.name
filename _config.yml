@@ -22,7 +22,7 @@ title: Jamie Fravel
 email: jfravel@iuuk.mff.cuni.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Jamie's profesional website and blog. Contains teaching materials in addition to research and software resources.
-baseurl: "jamiefravel.name" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Academic Social Profiles
