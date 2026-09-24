@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## Postdoc at Charles University
-- Algorithms and Data Structures 2 Tutorial -- in person -- upcoming -- Winter 2026/27
+- Algorithms and Data Structures 2 Tutorial -- 12 students -- in person -- Winter 2026/27
 - Algorithms and Data Structures 1 Tutorial -- 36 students -- in person -- Spring 2026
 
 

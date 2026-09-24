@@ -6,8 +6,8 @@ nav_order: 1
 ---
 
 <figure style="max-width: 800px; margin: 20px auto; text-align: center;">
-  <figcaption style="font-style: italic; margin-top: 8px; color: #555;">
-    Curiculum Vitae.
+  <figcaption style="font-style: bold; margin-top: 8px; color: #555;">
+    Curriculum Vitae
   </figcaption>
   <!-- Embed the PDF using an iframe or object tag -->
   <iframe 
